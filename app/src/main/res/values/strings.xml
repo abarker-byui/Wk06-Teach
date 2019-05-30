@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teach</string>
+    <string name="even">Even</string>
+    <string name="even_finished">Finished counting by even numbers.</string>
+    <string name="odd">Odd</string>
+    <string name="odd_finished">Finished counting by odd numbers.</string>
+</resources>
